@@ -1,0 +1,6 @@
+﻿  serveDlg.cpp
+c:\users\叶哲文\documents\visual studio 2015\projects\serve\serve\servedlg.h(25): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: 参见“gethostbyname”的声明
+c:\users\叶哲文\documents\visual studio 2015\projects\serve\serve\servedlg.cpp(134): warning C4715: “CserveDlg::startlisten”: 不是所有的控件路径都返回值
+c:\users\叶哲文\documents\visual studio 2015\projects\serve\serve\servedlg.cpp(299): warning C4715: “CserveDlg::serve_accept”: 不是所有的控件路径都返回值
+  serve.vcxproj -> c:\Users\叶哲文\Documents\Visual Studio 2015\Projects\serve\Debug\serve.exe
